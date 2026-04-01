@@ -4,9 +4,9 @@
 dist
 tmp
 out-tsc
-build/*
+**/build/
+**/target/
 .gradle
-target/*
 
 # dependencies
 node_modules
